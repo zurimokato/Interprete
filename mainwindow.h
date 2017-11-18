@@ -28,6 +28,14 @@ private slots:
 
     void saveFile();
 
+    void on_actionSaveAs_triggered();
+
+    bool maybeSave();
+
+    void on_actionExit_triggered();
+
+    void closeEvent(QCloseEvent *event);
+
 private:
     Ui::MainWindow *ui;
     QString curFile;
