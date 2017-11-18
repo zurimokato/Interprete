@@ -1,0 +1,5 @@
+programa heccho en el Framework QT para c++
+que se asemeja a un compilador.
+esté solo ejecutara el analisador lexico y sintactico
+gracias a Flex y Bson
+hecho para la materia de compiladores.
