@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>D:/Jhoan/diseño de la pag/QtImages/95392_document_1024x1024.png</file>
+        <file>D:/Jhoan/diseño de la pag/QtImages/flaticon-save.png</file>
+        <file>D:/Jhoan/diseño de la pag/QtImages/Open folder.png</file>
+        <file>D:/Jhoan/diseño de la pag/QtImages/compfile.png</file>
+        <file>D:/Jhoan/diseño de la pag/QtImages/user_man_info_21954.png</file>
+    </qresource>
+</RCC>
